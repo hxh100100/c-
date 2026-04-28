@@ -1,26 +1,26 @@
 //#include<iostream>
 //using namespace std;
 //
-////1║╒нч╡ннч╥╣
+////1Ц─│Ф≈═Е▐┌Ф≈═Х©■
 //void test01()
 //{
 //	cout << "this is test01" << endl;
 //}
 //
-////2║╒сп╡нсп╥╣
+////2Ц─│Ф°┴Е▐┌Ф≈═Х©■
 //void test02(int a)
 //{
 //	cout << "this is test02 a= " << a << endl;
 //}
 //
-////3║╒нч╡нсп╥╣
+////3Ц─│Ф≈═Е▐┌Ф°┴Х©■
 //int test03()
 //{
 //	cout << "this is test03" << endl;
 //	return 1000;
 //}
 //
-////4║╒сп╡нсп╥╣
+////4Ц─│Ф°┴Е▐┌Ф°┴Х©■
 //int test04(int a)
 //{
 //	cout << "this is test04 a =" << a << endl;
